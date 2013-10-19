@@ -1,0 +1,8 @@
+D:\Common\Dropbox\Projects\BHO Starter\MyBHO\MyBHO\obj\Debug\MyBHO.Resources.resources
+D:\Common\Dropbox\Projects\BHO Starter\MyBHO\MyBHO\obj\Debug\MyBHO.vbproj.GenerateResource.Cache
+D:\Common\Dropbox\Projects\BHO Starter\MyBHO\MyBHO\bin\Debug\MyBHO.dll
+D:\Common\Dropbox\Projects\BHO Starter\MyBHO\MyBHO\bin\Debug\MyBHO.pdb
+D:\Common\Dropbox\Projects\BHO Starter\MyBHO\MyBHO\bin\Debug\MyBHO.xml
+D:\Common\Dropbox\Projects\BHO Starter\MyBHO\MyBHO\obj\Debug\MyBHO.dll
+D:\Common\Dropbox\Projects\BHO Starter\MyBHO\MyBHO\obj\Debug\MyBHO.xml
+D:\Common\Dropbox\Projects\BHO Starter\MyBHO\MyBHO\obj\Debug\MyBHO.pdb
